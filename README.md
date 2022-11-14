@@ -18,6 +18,8 @@ Usage:
 EXAMPLE:
 
 ```
+eg > python MobaXterm-Keygen.py "david" 22.1
+
 PS C:\Users\DoubleSine\Github\MobaXterm-Keygen> .\MobaXterm-Keygen.py "DoubleSine" 10.9
 [*] Success!
 [*] File generated: C:\Users\DoubleSine\Github\MobaXterm-Keygen\Custom.mxtpro
